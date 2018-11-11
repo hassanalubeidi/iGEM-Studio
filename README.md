@@ -1,24 +1,11 @@
-# README
+#iGEM Studio
+iGEM Studio provides an easy way to create an iGEM Wiki. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Version 0.1 (First minimum viable product): 
+This software follows the Agile release methodology, so there will be constant small releases. Versioning goes as follows:
+X.Y.Z where 
+- X marks a new version of the software entirely, with potentially breaking changes.
+- Y marks the adddition of a new feature.
+- Z marks a small change/ bug fix. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Notice: Versions < 1 are prerelease, so many changes will be breaking. Therefore, Please don't rely on this for live wikis*
