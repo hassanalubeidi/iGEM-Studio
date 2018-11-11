@@ -1,4 +1,4 @@
-#iGEM Studio
+# iGEM Studio
 iGEM Studio provides an easy way to create an iGEM Wiki. 
 
 Version 0.1 (First minimum viable product): 
